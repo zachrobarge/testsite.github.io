@@ -1,0 +1,6 @@
+main:
+    - title: "Homepage"
+      url: /homepage/
+    - title: "CV"
+      url: "/files/zr_cv.pdf"
+      
